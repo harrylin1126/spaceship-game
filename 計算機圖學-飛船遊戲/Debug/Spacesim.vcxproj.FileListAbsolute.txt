@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\spacesimulator.net_tutorial5_win_vc6\Debug\Spacesim.exe
+C:\Users\tainc\我的雲端硬碟\授課課程資料\1大學部課程\計算機圖學 (大二)\Spacesimulator.net\spacesimulator.net_tutorial5 VS2019\Debug\Spacesim.exe
+C:\Users\cheng\OneDrive\桌面\spacesimulator.net_tutorial5 VS2019\spacesimulator.net_tutorial5 VS2019\Debug\Spacesim.exe
+C:\Users\cheng\OneDrive\桌面\1102912林承翰\1102912林承翰\Debug\Spacesim.exe
+D:\大二下\計圖\1102912林承翰\1102912林承翰\Debug\Spacesim.exe
